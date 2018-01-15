@@ -35,7 +35,7 @@ int main()
     bool noZerosUnderDiag = true;
     bool onlyZerosUnderDiag = true;
 
-    //In the loops above we want to cover multiple cases so we will not break the cycles premature
+    //In the loops above we want to cover multiple cases so we will not break the cycles prematurely
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < i; j++)
